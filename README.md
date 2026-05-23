@@ -100,11 +100,24 @@ Todo el output visual ocurre en tiempo real.
 
 
 - Imágenes del proyecto
+- ## Proceso
+![Proceso 1](./Captura%20de%20pantalla%20(54).png)
+![Proceso 1](./Captura%20de%20pantalla%20(55).png)
+![Proceso 1](./Captura%20de%20pantalla%20(57).png)
+![Proceso 1](./Captura%20de%20pantalla%20(58).png)
+![Proceso 1](./Captura%20de%20pantalla%20(60).png)
+![Proceso 1](./Captura%20de%20pantalla%20(61).png)
+![Proceso 1](./Captura%20de%20pantalla%20(62).png)
+![Proceso 1](./Captura%20de%20pantalla%20(64).png)
+![Proceso 1](./Captura%20de%20pantalla%20(65).png)
+![Proceso 1](./Captura%20de%20pantalla%20(66).png)
+![Proceso 1](./Captura%20de%20pantalla%20(67).png)
 
 - Captura del sketch
-  
+  ![Resultado](./Captura%20de%20pantalla%20(72).png)
+  ![Resultado](./Captura%20de%20pantalla%20(74).png)
 - Link P5JS
-  https://editor.p5js.org/220964701/sketches/YqWMrvw0c
+  [https://editor.p5js.org/220964701/sketches/YqWMrvw0c]
   
 -CÓDIGO 
 function setup() {
