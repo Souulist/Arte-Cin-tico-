@@ -97,7 +97,7 @@ El sketch genera:
 Todo el output visual ocurre en tiempo real.
 
 - Diagrama de flujo
-![Diagrama de flujo](./Diagrama%20de%20Flujo.png)
+![Diagrama de flujo](./Diagrama%20de%20Flujo(1).png)
 
 - Imágenes del proyecto
 - ## Proceso
