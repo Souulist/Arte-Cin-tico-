@@ -114,6 +114,7 @@ Todo el output visual ocurre en tiempo real.
 ![Proceso 1](./Captura%20de%20pantalla%20(67).png)
 
 - Captura del sketch
+  
   ![Resultado](./Captura%20de%20pantalla%20(72).png)
   ![Resultado](./Captura%20de%20pantalla%20(74).png)
 - Link P5JS
